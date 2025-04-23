@@ -1,5 +1,5 @@
 # Yolov11-Classifier
-Este repositorio implementa un modelo de clasificación de imágenes basado en YOLO-11m, la versión más pequeña del modelo. Aunque YOLO es tradicionalmente utilizado para detección de objetos, aquí se adapta para tareas de clasificación pura.
+Este repositorio implementa un modelo de clasificación de imágenes basado en YOLO-11n, la versión más pequeña del modelo. Aunque YOLO es tradicionalmente utilizado para detección de objetos, aquí se adapta para tareas de clasificación pura.
 
 ## Descripción del modelo
 
